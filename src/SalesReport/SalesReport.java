@@ -3,8 +3,6 @@ package SalesReport;
 import java.util.Random;
 
 /**
- * AUTHOR: NAOYUKI CHRISTOPHER HIGAKI
- * STUDENT ID: ST10462415
  * CLASS NAME: SalesReport
  * DESCRIPTION:
  * 
